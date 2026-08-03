@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Honk&size=100&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=I Win Again" alt="Rachit Mangawa" />
+  <img src="http://readme-typing-svg.herokuapp.com?font=Honk&size=100&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=I+Win+Again" alt="Rachit Mangawa" />
 </div>
 <div align="center">
 
