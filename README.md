@@ -11,6 +11,11 @@
 
 </div>
 
+
+<div align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=50&duration=1&pause=400000&color=F7F7F7&center=true&vCenter=true&width=1000&height=50&lines=TECH+STACK" alt="Tech Stack" />
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,kotlin,r,bash,vim,powershell,md,latex,pytorch,tensorflow,sklearn,opencv,bots,fastapi,mysql,redis,supabase,git,github,githubactions,docker,npm,vercel,netlify,vscode,pycharm,robloxstudio&perline=14" />
