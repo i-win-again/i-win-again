@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<!-- ![Snake Animation](https://raw.githubusercontent.com/i-win-again/i-win-again/output/github-contribution-grid-snake.svg)  --> 
+ <!-- ![Snake Animation](https://raw.githubusercontent.com/i-win-again/i-win-again/output/github-contribution-grid-snake.svg) -->
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
