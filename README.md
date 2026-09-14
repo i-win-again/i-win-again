@@ -1,14 +1,16 @@
 <div align="center">
   <img src="http://readme-typing-svg.herokuapp.com?font=Honk&size=100&duration=1&pause=1000000&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=I+Win+Again" alt="Rachit Mangawa" />
 </div>
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-mangawa/)
-[![Email](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangawa.rachit701@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/IDKHowToCodeFR)
-[![Codeforces](https://img.shields.io/badge/Codeforces-black?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/i_win_again)
+[![Codeforces](https://img.shields.io/badge/Codeforces-black?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/i-win-again)
+[![Kaggle](https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rachitmangawa)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rachit-mangawa/)
+[![Email](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangawa.rachit701@gmail.com)
 [![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1411813601542410290)
-[![Alt GitHub](https://img.shields.io/badge/main_github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IDKHowToCodeFR)
+[![Main GitHub](https://img.shields.io/badge/main_github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IDKHowToCodeFR)
 
 </div>
 
