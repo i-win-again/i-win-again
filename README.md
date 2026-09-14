@@ -7,8 +7,8 @@
 [![Email](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangawa.rachit701@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/IDKHowToCodeFR)
 [![Codeforces](https://img.shields.io/badge/Codeforces-black?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/i_win_again)
-[![Alt GitHub](https://img.shields.io/badge/main_github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IDKHowToCodeFR)
 [![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1411813601542410290)
+[![Alt GitHub](https://img.shields.io/badge/main_github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IDKHowToCodeFR)
 
 </div>
 
